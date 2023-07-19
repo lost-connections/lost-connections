@@ -9,14 +9,14 @@
   <p align="center">
     Lost Connections is a visual novel that's based on a true story about self improvement and courage.!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://lost-connections.com"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://discord.com/users/1124428204648697906">Feedback</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://discord.com/users/1124428204648697906">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://discord.com/users/1124428204648697906">Request Feature</a>
   </p>
 </div>
 
