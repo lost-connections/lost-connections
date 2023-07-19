@@ -1,4 +1,4 @@
-<h2 align="center">Lost Connections Developers Personel Acoounts</h2>
+<h2 align="center">Lost Connections Developers Personel Acoounts [https://lost-connections.com](https://lost-connections.com)</h2>
 
 <h3>blandy candy:</h3>
 <p align="left">
