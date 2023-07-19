@@ -1,5 +1,5 @@
 <h2 align="center">Lost Connections Developers Personel Acoounts</h2>
-[https://lost-connections.com](https://lost-connections.com)
+- [Lost Connections](https://lost-connections.com)
 
 <h3>blandy candy:</h3>
 <p align="left">
