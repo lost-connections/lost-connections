@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="lostconnections.png" alt="Logo" width="120" height="120">
+    <img src="lostconnections.png" alt="Logo" width="140" height="140">
   </a>
 
   <h3 align="center">Lost Connections</h3>
