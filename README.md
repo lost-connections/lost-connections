@@ -1,4 +1,4 @@
-<h2 align="center">Amper Pearly - Lost Connections</h2>
+<h2 align="center">Lost Connections - Developer Personel Account</h2>
 
 <h3>blandy candy:</h3>
 <p align="left">
