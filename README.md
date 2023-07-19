@@ -1,6 +1,6 @@
 <h2 align="center">Lost Connections Developers Personel Acoounts</h2>
-- [Lost Connections](https://lost-connections.com)
 
+- [Lost Connections:](https://lost-connections.com)
 <h3>blandy candy:</h3>
 <p align="left">
 <a href="https://discord.com/users/1124428204648697906" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
