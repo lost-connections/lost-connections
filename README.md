@@ -7,7 +7,7 @@
   <h3 align="center">Lost Connections</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Lost Connections is a visual novel that's based on a true story about self improvement and courage.!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
